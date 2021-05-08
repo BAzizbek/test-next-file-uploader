@@ -1,6 +1,5 @@
 # test-next-file-uploader
 
-Link: https://bazizbek.github.io/test-next-file-uploader/
 
 Tool to upload a file, it compresses the file before saving in the disk
 
